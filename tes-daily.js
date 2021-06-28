@@ -1,3 +1,3 @@
 setTimeout(function(){
-   $(".stickAdclose&quot;).css(&quot;display&quot;,&quot;flex&quot;);
+   $(".stickAdclose").css("display","flex");
 }, 10000);
